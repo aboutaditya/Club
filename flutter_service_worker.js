@@ -92,7 +92,7 @@ const RESOURCES = {
 "Club/icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "Club/icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "Club/index.html": "ecc6972a932976a721a7cdd09367702a",
-"/": "aa8c119c0256afa04b8803c6947d4941",
+"/": "a55ac6974cc55a7ce01a4eb57036251a",
 "Club/main.dart.js": "c1265981f681f6d46db88d2dc72e1a6a",
 "Club/manifest.json": "31000a8352714429713149664334c2cc",
 "Club/version.json": "ce60454c925ea6bb2489e9a7adc00d17",
@@ -129,8 +129,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "aa8c119c0256afa04b8803c6947d4941",
-"main.dart.js": "1dc4bf469ee176f118bcd667fc071474",
+"index.html": "a55ac6974cc55a7ce01a4eb57036251a",
+"main.dart.js": "22ec4f788d97153097fba480131ccce9",
 "manifest.json": "31000a8352714429713149664334c2cc",
 "version.json": "ce60454c925ea6bb2489e9a7adc00d17"
 };
